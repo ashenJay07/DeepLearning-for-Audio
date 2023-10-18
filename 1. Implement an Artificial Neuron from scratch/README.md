@@ -5,6 +5,7 @@
 2. [Artificial Neuron](#artificial-neuron)
    1. [SUM ( h )](#sum--σ)
    2. [Output ( y )](#output--y)
+   3. [Sigmoid activation function](#sigmoid-activation-function)
 3. [The artificial neuron with sigmoid activation function]( #the-artificial-neuron-with-sigmoid-activation-function)
 <!-- 1. []() -->
 

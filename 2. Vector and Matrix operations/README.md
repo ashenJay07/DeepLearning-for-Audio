@@ -1,13 +1,13 @@
 ## Table of Contents
 
 <!-- prettier-ignore -->
-1. [What are Vectors](#what-is-vector)
+1. [What are Vectors?](#what-are-vectors)
 2. [Operations of Vector](#operations-of-vectors)
     1. [Scaler Addition](#scaler-addition)
     2. [Scaler Multiplication](#scaler-multiplication)
     3. [Vector Addition](#vector-addition)
     4. [Dot Product](#dot-product)
-3. [What are Matrix](#)
+3. [What are Matrix?](#what-are-matrix)
 4. [Matrix Dimensions](#matrix-dimensions)
 5. [Rows and Column Vectors](#row-and-column-vectors)
 6. [Matrix Transposition](#matrix-transposition)
@@ -18,7 +18,7 @@
 
 &nbsp;
 
-<h1 style="color: red">What are Vectors?</h1>
+## What are Vectors?
 
 <img src="../images/2-vector.png" alt="vector" width="250">
 
@@ -91,7 +91,7 @@
 
 <br><br>
 
-<h1 style="color: red">What are Matrix?</h1>
+## What are Matrix?
 
 <img src="../images/2-metrics-example.png" alt="" width="250">
 

@@ -10,7 +10,7 @@
    1. [weights](#1-weights)
    2. [net input](#2-net-input)
    3. [activation](#3-activation)
-   4. [Computation in action (layers-wise)](#4-computation-in-action-layers-wise)
+   4. [computation in action (layers-wise)](#4-computation-in-action-layers-wise)
 8. [Activations vs. Activation Functions](#activations-vs-activation-functions)
 
 &nbsp;
@@ -113,7 +113,7 @@
 
 &nbsp;
 
-<img src="../images/3-sample-calculation.png" width="400px">
+<img src="../images/3-sample-calculation.png" width="700px">
 
 <br><br><br>
 

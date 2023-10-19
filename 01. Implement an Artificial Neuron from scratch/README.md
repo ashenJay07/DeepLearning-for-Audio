@@ -43,7 +43,7 @@
 
 <img src="../images/output-formula.png" alt="artificial-neuron-image" width="500">
 
-- y = activation function \* net input
+- y = activation function \* net input (sum of weighted inputs)
 
 &nbsp;
 
@@ -57,15 +57,13 @@
 - Often used for binary classification tasks, where the output represents a probability
 - It serves as an activation function, determining when the neuron should fire or remain inactive in response to input data
 
+<img src="../images/output-formula-2.png" alt="artificial-neuron-image" width="400">
+
 &nbsp;
 
-```
 "It serves as an activation function, determining when the neuron should fire or remain inactive in response to input data"
 
-    Think of the sigmoid function as a switch for an artificial neuron. It decides whether the neuron should be "on" (fire) or "off" (inactive) based on the input it receives. The output of the sigmoid function, which ranges from 0 to 1, helps determine this decision. When the output is close to 1, the neuron is more likely to fire, and when it's close to 0, the neuron remains inactive. This decision is crucial for tasks like classifying whether an input belongs to one category or another in binary classification.
-```
-
-<img src="../images/output-formula-2.png" alt="artificial-neuron-image" width="400">
+Think of the sigmoid function as a switch for an artificial neuron. It decides whether the neuron should be "on" (fire) or "off" (inactive) based on the input it receives. The output of the sigmoid function, which ranges from 0 to 1, helps determine this decision. When the output is close to 1, the neuron is more likely to fire, and when it's close to 0, the neuron remains inactive. This decision is crucial for tasks like classifying whether an input belongs to one category or another in binary classification.
 
 &nbsp;
 

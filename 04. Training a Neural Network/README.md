@@ -45,7 +45,6 @@
 | :------------------ | :------------------------------------------------------------------------------------- |
 | Forward Propagation | 1. Get prediction <br> 2. Calculate the error                                          |
 | Backpropagation     | 3. Calculate gradient of the error function over the weights <br> 4. Update parameters |
-|                     |                                                                                        |
 
 _The gradient in neural networks indicates the direction in which the model's parameters (weights) should be updated to improve performance_
 

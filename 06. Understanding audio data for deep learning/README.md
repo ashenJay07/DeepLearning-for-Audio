@@ -19,6 +19,6 @@
   2. frequency ( f ): _inverse of the period ( f = 1 / T )_
   3. amplitude ( A ): _power of wave_
 
-<div style='margin-left: 70px;'>
+<p style='margin-left: 70px;'>
     <img src='../images/5-waveform-1.png' width='300px'>
-</div>
+</p>
